@@ -1,0 +1,15 @@
+.mainheader {
+    color: "green";
+    
+}
+
+.subTopic{
+    background-color: orange;
+    width: 30%;
+    height: 50%;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
